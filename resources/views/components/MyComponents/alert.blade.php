@@ -6,5 +6,6 @@
     <div>
       <span class="font-medium">Success alert!</span> {{$slot}} 
       <!--$slot es una variable que representa contenido dinámico que se 
-        pasa a un componente desde la vista que lo llama.  -->
+        pasa a un componente desde la vista que lo llama. 
+      Estoy haciendo una prueba de seguimiento para git -->
     </div>
