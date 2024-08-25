@@ -22,7 +22,7 @@
         </x-MyComponents.alert> <!--Ruta del archivo componente -->
     </div>
 
-    <p>Hola mundo</p>
+    <p>Esto es una prueba de cambios para la rama local y remota "develop-1"</p>
 
 </body>
 </html>
