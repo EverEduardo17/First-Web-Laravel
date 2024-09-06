@@ -1,0 +1,21 @@
+
+== PENDIENTES INMEDIATOS ==
+ - Realziar los videos tutoriales (sencillos y emtendibles) de las funcionalidades del sistema FCA, revizar en el apartado de ayuda los qu eya esxisten y validar si son utiles.
+   En tal caso, validar si deben quedarse o si se deben de reemplazar y realzar los que hagan falta.
+   Agregar de igual manera un manual en el cual se explique lo mismo que en el video pero describir el proceso paso a paso y colocar imagenes de el procedimiento para un mejor entenidimiento.
+
+ - Comenzar a familiarizarme con el proyecto, revisar las clases y como se utilizan.
+   Revisar el CRUD de eventos.
+
+ - Rervisar la base de datos.
+
+= NOTA =
+Al instalar el proyecto (imagen de whats) en uno de los pasos generará un comflicto referente a Magick, asi que se tendrá que instalar por separado y volver a ejecutar le comando.
+Al final todos los comandos deben de terminar con un succesfull.
+Para intalar Magick, revisar la documentación ofcicial.
+
+ - Revisar como se realiza la conexión con la base de datos (MySQL).
+
+ - Revisar en el curso como de Laravel, como se realziar la validación de documentos.
+
+
